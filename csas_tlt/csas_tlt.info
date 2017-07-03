@@ -1,0 +1,5 @@
+name = Csas tooltip
+description = Csas tooltip
+package = Csas
+version = VERSION
+core = 7.x
